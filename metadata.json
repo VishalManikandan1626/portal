@@ -1,0 +1,6 @@
+{
+  "name": "Student Registration Form with Client-Side Validation",
+  "description": "A modern registration form website with real-time validation, a Glassmorphism UI, a progress tracker, a password strength meter, and full mobile responsiveness using HTML5, CSS3, and Vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
